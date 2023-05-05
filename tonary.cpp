@@ -52,271 +52,271 @@ void toBinary()
 		switch(text[i])
 		{
 			case ' ':
-				binary.append("0010 0000 ");
+				binary.append("00100000 ");
 				break;
 
 			case '!':
-				binary.append("0010 0001 ");
+				binary.append("00100001 ");
 				break;
 
 			case '"':
-				binary.append("0010 0010 ");
+				binary.append("00100010 ");
 				break;
 
 			case '#':
-				binary.append("0010 0011 ");
+				binary.append("00100011 ");
 				break;
 
 			case '$':
-				binary.append("0010 0100 ");
+				binary.append("00100100 ");
 				break;
 
 			case 'A':
-				binary.append("0100 0001 ");
+				binary.append("01000001 ");
 				break;
 
 			case 'B':
-				binary.append("0100 0010 ");
+				binary.append("01000010 ");
 				break;
 
 			case 'C':
-				binary.append("0100 0011 ");
+				binary.append("01000011 ");
 				break;
 
 			case 'D':
-				binary.append("0100 0100 ");
+				binary.append("01000100 ");
 				break;
 
 			case 'E':
-				binary.append("0100 0101 ");
+				binary.append("01000101 ");
 				break;
 
 			case 'F':
-				binary.append("0100 0110 ");
+				binary.append("01000110 ");
 				break;
 
 			case 'G':
-				binary.append("0100 0111 ");
+				binary.append("01000111 ");
 				break;
 
 			case 'H':
-				binary.append("0100 1000 ");
+				binary.append("01001000 ");
 				break;
 
 			case 'I':
-				binary.append("0100 1001 ");
+				binary.append("01001001 ");
 				break;
 
 			case 'J':
-				binary.append("0100 1010 ");
+				binary.append("01001010 ");
 				break;
 
 			case 'K':
-				binary.append("0100 1011 ");
+				binary.append("01001011 ");
 				break;
 
 			case 'L':
-				binary.append("0100 1100 ");
+				binary.append("01001100 ");
 				break;
 
 			case 'M':
-				binary.append("0100 1101 ");
+				binary.append("01001101 ");
 				break;
 
 			case 'N':
-				binary.append("0100 1110 ");
+				binary.append("01001110 ");
 				break;
 
 			case 'O':
-				binary.append("0100 1111 ");
+				binary.append("01001111 ");
 				break;
 
 			case 'P':
-				binary.append("0101 0000 ");
+				binary.append("01010000 ");
 				break;
 
 			case 'Q':
-				binary.append("0101 0001 ");
+				binary.append("01010001 ");
 				break;
 
 			case 'R':
-				binary.append("0101 0010 ");
+				binary.append("01010010 ");
 				break;
 
 			case 'S':
-				binary.append("0101 0011 ");
+				binary.append("01010011 ");
 				break;
 
 			case 'T':
-				binary.append("0101 0100 ");
+				binary.append("01010100 ");
 				break;
 
 			case 'U':
-				binary.append("0101 0101 ");
+				binary.append("01010101 ");
 				break;
 
 			case 'V':
-				binary.append("0101 0110 ");
+				binary.append("01010110 ");
 				break;
 
 			case 'W':
-				binary.append("0101 0111 ");
+				binary.append("01010111 ");
 				break;
 
 			case 'X':
-				binary.append("0101 1000 ");
+				binary.append("01011000 ");
 				break;
 
 			case 'Y':
-				binary.append("0101 1001 ");
+				binary.append("01011001 ");
 				break;
 
 			case 'Z':
-				binary.append("0101 1010 ");
+				binary.append("01011010 ");
 				break;
 
 			case '[':
-				binary.append("0101 1011 ");
+				binary.append("01011011 ");
 				break;
 
 			case '/':
-				binary.append("0101 1100 ");
+				binary.append("01011100 ");
 				break;
 
 			case ']':
-				binary.append("0101 1101 ");
+				binary.append("01011101 ");
 				break;
 
 			case '^':
-				binary.append("0101 1110 ");
+				binary.append("01011110 ");
 				break;
 
 			case '-':
-				binary.append("0101 1111 ");
+				binary.append("01011111 ");
 				break;
 
 			case '`':
-				binary.append("0110 0000 ");
+				binary.append("01100000 ");
 				break;
 
 			case 'a':
-				binary.append("0110 0001 ");
+				binary.append("01100001 ");
 				break;
 
 			case 'b':
-				binary.append("0110 0010 ");
+				binary.append("01100010 ");
 				break;
 
 			case 'c':
-				binary.append("0110 0011 ");
+				binary.append("01100011 ");
 				break;
 
 			case 'd':
-				binary.append("0110 0100 ");
+				binary.append("01100100 ");
 				break;
 
 			case 'e':
-				binary.append("0110 0101 ");
+				binary.append("01100101 ");
 				break;
 
 			case 'f':
-				binary.append("0110 0110 ");
+				binary.append("01100110 ");
 				break;
 
 			case 'g':
-				binary.append("0110 0111 ");
+				binary.append("01100111 ");
 				break;
 
 			case 'h':
-				binary.append("0110 1000 ");
+				binary.append("01101000 ");
 				break;
 
 			case 'i':
-				binary.append("0110 1001 ");
+				binary.append("01101001 ");
 				break;
 
 			case 'j':
-				binary.append("0110 1010 ");
+				binary.append("01101010 ");
 				break;
 
 			case 'k':
-				binary.append("0110 1011 ");
+				binary.append("01101011 ");
 				break;
 
 			case 'l':
-				binary.append("0110 1100 ");
+				binary.append("01101100 ");
 				break;
 
 			case 'm':
-				binary.append("0110 1101 ");
+				binary.append("01101101 ");
 				break;
 
 			case 'n':
-				binary.append("0110 1110 ");
+				binary.append("01101110 ");
 				break;
 
 			case 'o':
-				binary.append("0110 1111 ");
+				binary.append("01101111 ");
 				break;
 
 			case 'p':
-				binary.append("0111 0000 ");
+				binary.append("01110000 ");
 				break;
 
 			case 'q':
-				binary.append("0111 0001 ");
+				binary.append("01110001 ");
 				break;
 
 			case 'r':
-				binary.append("0111 0010 ");
+				binary.append("01110010 ");
 				break;
 
 			case 's':
-				binary.append("0111 0011 ");
+				binary.append("01110011 ");
 				break;
 
 			case 't':
-				binary.append("0111 0100 ");
+				binary.append("01110100 ");
 				break;
 
 			case 'u':
-				binary.append("0111 0101 ");
+				binary.append("01110101 ");
 				break;
 
 			case 'v':
-				binary.append("0111 0110 ");
+				binary.append("01110110 ");
 				break;
 
 			case 'w':
-				binary.append("0111 0111 ");
+				binary.append("01110111 ");
 				break;
 
 			case 'x':
-				binary.append("0111 1000 ");
+				binary.append("01111000 ");
 				break;
 
 			case 'y':
-				binary.append("0111 1001 ");
+				binary.append("01111001 ");
 				break;
 
 			case 'z':
-				binary.append("0111 1010 ");
+				binary.append("01111010 ");
 				break;
 
 			case '{':
-				binary.append("0111 1011 ");
+				binary.append("01111011 ");
 				break;
 
 			case '|':
-				binary.append("0111 1100 ");
+				binary.append("01111100 ");
 				break;
 
 			case '}':
-				binary.append("0111 1101 ");
+				binary.append("01111101 ");
 				break;
 
 			case '~':
-				binary.append("0111 1110 ");
+				binary.append("01111110 ");
 				break;
 
 			default:
@@ -335,4 +335,3 @@ void toText()
 	cout<<"Text ----------\n";
 	cout<<"Binary: ";
 }
-
